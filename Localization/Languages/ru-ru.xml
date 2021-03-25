@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Locale>
+  <language type="Russian">
+    <Title>Добро Пожаловать</Title>
+    <File>Файл</File>
+    <Open>Открытый</Open>
+    <Save>Экономить</Save>
+    <Edit>Редактирование</Edit>
+    <Cut>Вырезать</Cut>
+    <Copy>Скопировать</Copy>
+    <Paste>Вставить</Paste>
+    <Options>Установки</Options>
+    <Language>Язык</Language>
+  </language>
+</Locale>

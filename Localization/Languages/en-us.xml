@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Locale>
+  <language type="English">
+    <Title>Welcome</Title>
+    <File>File</File>
+    <Open>Open</Open>
+    <Save>Save</Save>
+    <Edit>Edit</Edit>
+    <Cut>Cut</Cut>
+    <Copy>Copy</Copy>
+    <Paste>Paste</Paste>
+    <Options>Options</Options>
+    <Language>Language</Language>
+  </language>
+</Locale>
